@@ -1,0 +1,10 @@
+mysql/auto.cnf
+mysql/base_base
+mysql/debian-5.7.flag
+mysql/ib_buffer_pool
+mysql/ibdata1
+mysql/ib_logfile0
+mysql/ib_logfile1
+mysql/mysql
+mysql/performance_schema
+mysql/sys
